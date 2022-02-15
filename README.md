@@ -10,4 +10,6 @@ Press "Request temporary access to the demo server"
 https://cors-anywhere.herokuapp.com/corsdemo
 
 
-### `2. Look for your favorite restaurant `
+### `3. Look for your favorite restaurant `
+
+Enjoy :)
