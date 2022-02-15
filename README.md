@@ -15,3 +15,6 @@ https://cors-anywhere.herokuapp.com/corsdemo
 Open localhost:3000 and look for your favorite restaurant
 
 Enjoy :)
+
+
+![alt text](https://github.com/z-dukic/Ravenous/blob/main/screenshot.png)
