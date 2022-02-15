@@ -12,4 +12,6 @@ https://cors-anywhere.herokuapp.com/corsdemo
 
 ### `3. Look for your favorite restaurant `
 
+Open localhost:3000 and look for your favorite restaurant
+
 Enjoy :)
